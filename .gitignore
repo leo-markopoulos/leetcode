@@ -1,0 +1,14 @@
+# macOS system files
+.DS_Store
+
+# Cache and temp files
+cache/
+tmp/
+*.cache
+__pycache__/
+*.py[cod]
+node_modules/
+npm-debug.log
+yarn-error.log
+*.log
+*.tmp
