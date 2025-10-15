@@ -1,6 +1,5 @@
 def merge(intervals):
     intervals = sorted(intervals, key=lambda x: x[0])
-    length = len(intervals)
     i = 1 
     while i < len(intervals):
         if intervals[i][0] <= intervals[i-1][1]:
