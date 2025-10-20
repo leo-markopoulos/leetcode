@@ -7,7 +7,6 @@ File structure %Y%m%d_{filename}.py
 ## 📊 LeetCode Stats
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Lmarkopoulos?theme=dark&font=Karma&ext=heatmap)
-![LeetCode Stats](https://leetcard.jacoblin.cool/dimitris-markopoulos?theme=dark&font=Karma&ext=heatmap)
 
 
 ![image](badge1.png)
